@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Website",
+    "description": "A full-featured e-commerce platform with product listings, cart functionality, and user authentication.",
+    "technologies": ["React", "Node.js", "MongoDB", "Express"],
+    "imageUrl": "https://example.com/ecommerce.jpg",
+    "liveUrl": "https://ecommerce-demo.com",
+    "githubUrl": "https://github.com/user/ecommerce",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Task Management App",
+    "description": "A productivity application for managing tasks with drag-and-drop functionality and team collaboration features.",
+    "technologies": ["React", "Firebase", "Material UI"],
+    "imageUrl": "https://example.com/taskapp.jpg",
+    "liveUrl": "https://taskapp-demo.com",
+    "githubUrl": "https://github.com/user/taskapp",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Weather Dashboard",
+    "description": "Real-time weather information with 5-day forecast for any location worldwide.",
+    "technologies": ["JavaScript", "OpenWeather API", "Bootstrap"],
+    "imageUrl": "https://example.com/weather.jpg",
+    "liveUrl": "https://weather-demo.com",
+    "githubUrl": "https://github.com/user/weather-app",
+    "featured": false
+  }
+]
